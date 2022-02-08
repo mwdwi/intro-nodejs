@@ -383,4 +383,8 @@ Now run the test file with:
 
 ```node test.mjs```
 
+# simple example
+<img width="1438" alt="Screen Shot 2022-02-08 at 21 30 20" src="https://user-images.githubusercontent.com/85268031/153007927-82a75e89-9240-4f1c-a194-429edb54469c.png">
+<img width="1439" alt="Screen Shot 2022-02-08 at 21 30 44" src="https://user-images.githubusercontent.com/85268031/153007953-1f09f7a8-61b9-419a-997d-19619ab84d5f.png">
+
 Happy coding :)
